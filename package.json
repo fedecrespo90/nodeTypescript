@@ -1,7 +1,7 @@
 {
   "name": "nodeTypescript",
   "version": "1.0.0",
-  "description": "",
+  "description": "http://brianflove.com/2016/03/29/typescript-express-node-js/",
   "scripts": {
     "grunt": "grunt",
     "start": "node ./bin/www"
